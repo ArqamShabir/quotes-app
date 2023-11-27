@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ArqamShabir/quotes-app/static/css/main.3217aa29.css",
+    "main.js": "/ArqamShabir/quotes-app/static/js/main.d0f36019.js",
+    "static/js/787.d48e1619.chunk.js": "/ArqamShabir/quotes-app/static/js/787.d48e1619.chunk.js",
+    "index.html": "/ArqamShabir/quotes-app/index.html",
+    "main.3217aa29.css.map": "/ArqamShabir/quotes-app/static/css/main.3217aa29.css.map",
+    "main.d0f36019.js.map": "/ArqamShabir/quotes-app/static/js/main.d0f36019.js.map",
+    "787.d48e1619.chunk.js.map": "/ArqamShabir/quotes-app/static/js/787.d48e1619.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3217aa29.css",
+    "static/js/main.d0f36019.js"
+  ]
+}
